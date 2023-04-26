@@ -1,0 +1,9 @@
+h1
+{
+    border: 1px solid crimson;
+    height: 60px;
+    width: 40%;
+    margin: 200px auto;
+    padding: 40px;
+    border-radius: 10px;
+}
